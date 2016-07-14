@@ -102,10 +102,10 @@
 //            cell.layer.borderWidth=5;
             break;
         case 17:
-            cell.celllabel.text=@"显露效果(将旧视图移开,显示下面的新视图)";
+            cell.celllabel.text=@"显露效果(将旧视图移开,显示下面的新视图)!!!";
             break;
         case 18:
-            cell.celllabel.text=@"显露效果(将旧视图移开,显示下面的新视图)";
+            cell.celllabel.text=@"显露效果(将旧视图移开,显示下面的新视图)!!!!";
             break;
             
             
